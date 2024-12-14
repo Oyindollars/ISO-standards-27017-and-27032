@@ -12,7 +12,7 @@ Benefits of implementing the standards
 
 Relationship with ISO 27001 - Information Security Management Systems
 
-Case 
+Case Studies
 
 Download report here: https://github.com/Oyindollars/ISO-standards-27017-and-27032/blob/d3bc050d58887cc6214e25acec43ed4ce23f94d9/ISO%20Report
 
